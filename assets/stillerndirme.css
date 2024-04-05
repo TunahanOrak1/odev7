@@ -1,0 +1,69 @@
+
+ h1 {
+    width: 920px;
+    height: 81px;
+    color: white;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 81px;
+    letter-spacing: -0.8999999761581421px;
+    text-align: center;
+    position: relative;
+    left: 300px;
+    position: relative;
+    top: 200px;
+    
+ }
+
+ p {
+    width: 720px;
+    height: 74px;
+    font-family: Montserrat;
+font-size: 30px;
+font-weight: 600;
+line-height: 37px;
+letter-spacing: -0.3499999940395355px;
+text-align: center;
+color: #FFFFFF;
+position: relative;
+left: 400px;
+position: relative;
+top: 200px;
+
+}
+
+.buton {
+    Size="Xlarge";
+Style="Primary";
+width: 200px;
+height: 104px
+opacity: 0px;
+background-color: #094BAC;
+text-align: center;
+position: relative;
+left: 100px;
+color: white;
+position: relative;
+left: 650px;
+position: relative;
+top: 200px
+
+
+
+
+
+
+}
+
+ 
+
+
+ 
+
+
+
+
+    
+    
